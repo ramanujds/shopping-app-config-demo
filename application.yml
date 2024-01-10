@@ -1,4 +1,4 @@
-message: Hello your order is getting processed.. Thank You. Visit Again.
+message: Hello your order is getting processed..
 
 CART_DB_URL: jdbc:h2:mem:cartdb
 
