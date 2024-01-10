@@ -1,1 +1,8 @@
 message: Hello your order is getting processed.. Thank You.
+
+CART_DB_URL: jdbc:h2:mem:cartdb
+
+PRODUCT_DB_URL: jdbc:h2:mem:productdb
+
+ORDER_DB_URL: jdbc:h2:mem:orderdb
+
