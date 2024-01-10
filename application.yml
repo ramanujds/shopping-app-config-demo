@@ -6,3 +6,5 @@ PRODUCT_DB_URL: jdbc:h2:mem:productdb
 
 ORDER_DB_URL: jdbc:h2:mem:orderdb
 
+CART_MS_ACTIVE_PROFILE: qa
+
